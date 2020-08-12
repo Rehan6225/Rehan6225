@@ -3,7 +3,7 @@
 
 <!--
 **Rehan6225/Rehan6225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+[![HitCount](http://hits.dwyl.com/rehan6225/team-envision / CallForAaruush-Form.svg)](http://hits.dwyl.com/rehan6225/team-envision / CallForAaruush-Form)
 <img src="images/DancingDoodle.png" width="300px" align="right">
 
 - 🔭 I’m currently working on ...30days 30projects repo
