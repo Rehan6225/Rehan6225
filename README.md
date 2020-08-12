@@ -1,6 +1,5 @@
 ### Hi there 👋
-https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif
-![cJ4eyyvgqxYWBYqh8n](https://media2.giphy.com/media/cJ4eyyvgqxYWBYqh8n/giphy.gif)
+
 
 <!--
 **Rehan6225/Rehan6225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -16,3 +15,4 @@ https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+>Keep Smilling and Work harder
