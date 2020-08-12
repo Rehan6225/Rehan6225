@@ -17,5 +17,5 @@
 Looking for collaborating oppurtunities in web dev and open source projects
 ---
 >Keep Smilling and Work harder
-```javascript
-var name=10
+```c++
+while(!success=try())
