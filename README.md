@@ -11,9 +11,11 @@
 - 🤔 I’m looking for help with ...database management system
 - 💬 Ask me about ...anything
 <!-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: ...He/Him/His
+
+
+-⚡ Fun fact: ...I play football in my free time
 ---
 ###code
 >Keep Smilling and Work harder
