@@ -13,9 +13,8 @@
 <!-- 📫 How to reach me: ...
 -->
 - 😄 Pronouns: ...He/Him/His
-
-
--⚡ Fun fact: ...I play football in my free time
+- ⚡ Fun fact: ...I play football in my free time
+Looking for collaborating oppurtunities in web dev and open source projects
 ---
 ###code
 >Keep Smilling and Work harder
