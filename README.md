@@ -1,4 +1,5 @@
 ### Hi there 👋
+https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif
 
 <!--
 **Rehan6225/Rehan6225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
