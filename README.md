@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+:octocat:
 
 
 <!--
@@ -16,6 +17,14 @@
 - ⚡ Fun fact: ...I play football in my free time
 Looking for collaborating oppurtunities in web dev and open source projects
 ---
+![Rehan's github stats](https://github-readme-stats.vercel.app/api?username=rehan6225&show_icons=true&hide=contribs)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan6225&layout=compact)](https://github.com/rehan6225/github-readme-stats)
+
+
 >Keep Smilling and Work harder
+
+
 ```c++
 while(!success=try())
+
