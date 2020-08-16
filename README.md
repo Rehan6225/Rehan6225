@@ -17,8 +17,8 @@
 - ⚡ Fun fact: ...I play football in my free time
 Looking for collaborating oppurtunities in web dev and open source projects
 ---
-![Rehan's github stats](https://github-readme-stats.vercel.app/api?username=rehan6225&show_icons=true&hide=contribs)
-<t>
+<img align="center" alt="Rehan Singh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Rehan6225&show_icons=true&count_private=true&include_all_commits=true" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan6225&layout=compact)](https://github.com/rehan6225/github-readme-stats)
 
 
