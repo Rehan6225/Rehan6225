@@ -24,7 +24,7 @@ Looking for collaborating oppurtunities in web dev and open source projects
 
 >Keep Smilling and Work harder
 
-code load update repeat
+`code load update repeat`
 
 ```c++
 while(!success=try())
