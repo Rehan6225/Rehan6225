@@ -1,6 +1,6 @@
 ### Hi I am Rehan as username says 👋 
 :octocat:
-
+`code` `load` `update` `repeat`
 
 <!--
 **Rehan6225/Rehan6225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -24,7 +24,7 @@ Looking for collaborating oppurtunities in web dev and open source projects
 
 >Keep Smilling and Work harder
 
-`code` `load` `update` `repeat`
+
 
 ```c++
 while(!success=try())
