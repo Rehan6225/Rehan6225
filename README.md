@@ -2,6 +2,7 @@
 :octocat:
 `code` `load` `update` `repeat`
 
+<img src="images/catstello.png" width="300px" height="300px"/>
 <!--
 **Rehan6225/Rehan6225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
