@@ -13,9 +13,6 @@
 - 🌱 I’m currently learning ...react
 - 👯 I’m looking to collaborate on ...**web dev projects**
 - 🤔 I’m looking for help with ...database management system
-- 💬 Ask me about ...anything
-<!-- 📫 How to reach me: ...
--->
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ...2 2 22🙃
 Looking for collaborating oppurtunities in web dev and open source projects
