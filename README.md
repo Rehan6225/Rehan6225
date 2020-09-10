@@ -1,6 +1,8 @@
 ### Hi I am Rehan as username says 👋 
 :octocat:
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Rehan6225)
+
 
 ### `code` `load` `update` `repeat`
 
