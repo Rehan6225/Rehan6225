@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with ...database management system
 - 😄 Pronouns: ...He/Him/His
 - ⚡ Fun fact: ...2 2 22🙃
-Looking for collaborating oppurtunities in web dev and open source projects
+
 ---
 <img align="center" alt="Rehan Singh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Rehan6225&show_icons=true&count_private=true&include_all_commits=true" />
 
