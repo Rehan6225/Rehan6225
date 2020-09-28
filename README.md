@@ -11,10 +11,9 @@
 ---
 - 🔭 I’m currently working on ...nothing
 - 🌱 I’m currently learning ...react
-- 👯 I’m looking to collaborate on ...**web dev projects**
 - 🤔 I’m looking for help with ...database management system
-- 😄 Pronouns: ...He/Him/His
-- ⚡ Fun fact: ...2 2 22🙃
+
+
 
 ---
 <img align="center" alt="Rehan Singh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Rehan6225&show_icons=true&count_private=true&include_all_commits=true" />
