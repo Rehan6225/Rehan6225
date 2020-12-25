@@ -1,4 +1,4 @@
-### Hi I am Rehan as username says 👋 
+### Hi I am Rehan  👋 
 :octocat:
 
 
