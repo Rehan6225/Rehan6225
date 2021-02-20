@@ -24,7 +24,6 @@
 >Keep Smilling and Work harder
 
 
-
 ```c++
 while(!success=try())
 ```
