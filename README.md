@@ -21,6 +21,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan6225&layout=compact)](https://github.com/rehan6225/github-readme-stats)
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan6225"/>
+
 >Keep Smilling and Work harder
 
 
@@ -28,4 +30,3 @@
 while(!success=try())
 ```
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan6225"/>
