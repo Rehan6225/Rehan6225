@@ -16,13 +16,15 @@
 
 
 ---
-<img align="center" alt="Rehan Singh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Rehan6225&show_icons=true&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan6225&layout=compact)](https://github.com/rehan6225/github-readme-stats)
+<div>
+<img height="150" alt="Rehan Singh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Rehan6225&show_icons=true&count_private=true&include_all_commits=true" />
+<img height="150" alt="Rehan's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan6225&layout=compact" />
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan6225&layout=compact)](https://github.com/rehan6225/github-readme-stats)-->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan6225"/>
+</div>
 
->Keep Smilling and Work harder
+
 
 
 ```c++
