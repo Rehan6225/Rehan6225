@@ -21,7 +21,7 @@
 <img height="150" alt="Rehan's GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehan6225&layout=compact" />
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehan6225&layout=compact)](https://github.com/rehan6225/github-readme-stats)-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan6225"/>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rehan6225"/>
 </div>
 
 
