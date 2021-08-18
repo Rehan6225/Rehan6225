@@ -1,7 +1,7 @@
 <div align="center">
   
 ### Hi I am Rehan  👋 
-:octocat:
+<!--:octocat:-->
 
 
 </div>
