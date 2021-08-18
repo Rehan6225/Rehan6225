@@ -27,7 +27,3 @@
 
 
 
-```c++
-while(!success=try())
-```
-
